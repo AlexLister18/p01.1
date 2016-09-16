@@ -28,4 +28,15 @@ def run_tests():
 # Edit this function:
 def gone_bust(n):
 
+    if n == 6:
+        print ("Phew, We Live to fight another day")
+
+
+    else:
+        print ("Awww Poop")
+        print ("HELP! HELP!")
+
+
+#COMPLETED
+
 

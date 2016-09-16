@@ -33,5 +33,10 @@ def run_tests():
 
 # Edit this code:
 def bobs_change(money):
+    if money < 50:
+        print ("Sorry Bob but you are broke")
+
+    elif money > 49:
+        print (money - 50)
 
 
