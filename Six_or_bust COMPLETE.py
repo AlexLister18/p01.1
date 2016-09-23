@@ -29,11 +29,10 @@ def run_tests():
 def gone_bust(n):
 
     if n == 6:
-        print ("Phew, We Live to fight another day")
+        print ("Pheww!")
 
 
     else:
-        print ("Awww Poop")
         print ("HELP! HELP!")
 
 
